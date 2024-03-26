@@ -1,3 +1,4 @@
+![Full Cycle](https://fullcycle.com.br/wp-content/themes/fullcycle/assets/images/fullcycle-logo.svg)
 # Desafio GO - Full Cycle 3.0
 
 ## Objetivos
